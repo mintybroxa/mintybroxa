@@ -1,7 +1,7 @@
 - 👋 oi sou @mintybroxa
-- 👀 sou interessado em lua
-- 🌱 tô aprendendo lua
+- 👀 sou interessado em haxe
+- 🌱 tô aprendendo haxe (muito dificil)
 - 💞️ tô achando uma pessoa para fazer collab
 - 📫 Como me alcançar sei lá 
-- 😄 pronomes: ele/ela
+- 😄 pronomes: ele/jegue
 - ⚡ fato engraçado: CACHORRO CHUPETAAAAO
